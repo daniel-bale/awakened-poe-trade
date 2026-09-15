@@ -17,6 +17,13 @@
 
 See [DEVELOPING.md](./DEVELOPING.md)
 
+### Native macOS interface
+
+The [SwiftUI macOS app](./native-macos/README.md) follows the Windows price-check
+design and provides a combined Ctrl+D item check, editable filters, live listings,
+and local history using the shared item parser.
+Build it on macOS with Xcode; the packaged app does not require Electron or Node.
+
 ### Acknowledgments
 
 - [libuiohook](https://github.com/kwhat/libuiohook)

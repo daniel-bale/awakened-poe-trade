@@ -1,0 +1,8 @@
+Item Class: Body Armours
+Rarity: Unique
+Tabula Rasa
+Simple Robe
+--------
+Sockets: W-W-W-W-W-W
+--------
+Item Level: 80

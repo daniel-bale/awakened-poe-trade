@@ -1,0 +1,17 @@
+{
+  "name": "awakened-native-trade-core",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node build.mjs && node --test test/*.test.mjs"
+  },
+  "dependencies": {
+    "dot-prop": "9.0.0",
+    "luxon": "3.7.2",
+    "neverthrow": "8.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.12"
+  }
+}

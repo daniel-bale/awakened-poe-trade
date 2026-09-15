@@ -26,3 +26,9 @@ yarn-error.log*
 # vitepress
 docs/.vitepress/dist
 docs/.vitepress/cache
+
+# Native macOS build output (regenerate the shared parser with bridge build)
+native-macos/.build/
+native-macos/.swiftpm/
+native-macos/dist/
+native-macos/Sources/TradeCore/Resources/trade-core.js

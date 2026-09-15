@@ -1,0 +1,18 @@
+Item Class: Rings
+Rarity: Unique
+Ming's Heart
+Amethyst Ring
+--------
+Item Level: 85
+--------
+{ Implicit Modifier — Chaos, Resistance }
++23% to Chaos Resistance
+--------
+{ Unique Modifier — Life }
+20(15-20)% reduced maximum Life
+{ Unique Modifier — Energy Shield }
+20(15-20)% reduced maximum Energy Shield
+{ Unique Modifier — Chaos, Resistance }
++49(40-50)% to Chaos Resistance
+{ Unique Modifier — Physical, Chaos }
+Gain 60(40-60)% of Physical Damage as Extra Chaos Damage

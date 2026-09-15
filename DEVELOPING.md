@@ -28,6 +28,9 @@ npm run dev
 
 # How to build
 
+For the SwiftUI macOS application, see [native-macos/README.md](./native-macos/README.md).
+It reuses the item parser and trade filters without an Electron runtime.
+
 ```shell
 cd renderer
 npm ci

@@ -1,0 +1,23 @@
+Item Class: Rings
+Rarity: Rare
+Havoc Circle
+Coral Ring
+--------
+Requirements:
+Level: 60
+--------
+Item Level: 85
+--------
+{ Implicit Modifier — Life }
++30 to maximum Life
+--------
+{ Prefix Modifier "Healthy" (Tier: 2) — Life }
++70 to maximum Life
+{ Suffix Modifier "of the Volcano" (Tier: 2) — Elemental, Fire, Resistance }
++35% to Fire Resistance
+{ Suffix Modifier "of the Ice" (Tier: 3) — Elemental, Cold, Resistance }
++32% to Cold Resistance
+{ Suffix Modifier "of the Storm" (Tier: 3) — Elemental, Lightning, Resistance }
++30% to Lightning Resistance
+{ Prefix Modifier "Serrated" (Tier: 3) — Physical, Attack }
+Adds 5 to 10 Physical Damage to Attacks

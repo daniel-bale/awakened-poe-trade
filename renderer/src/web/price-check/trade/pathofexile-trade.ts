@@ -136,7 +136,7 @@ interface TradeRequest {
           identified?: FilterBoolean
           stack_size?: FilterRange
           memory_level?: FilterRange
-          foulborn_item?: FilterBoolean
+          mutated?: FilterBoolean
           vestigial?: FilterBoolean
         }
       }
@@ -342,7 +342,7 @@ export function createTradeRequest (filters: ItemFilters, stats: FilterOrGroup[]
     propSet(query.filters, 'misc_filters.filters.split.option', String(false))
   }
   if (filters.foulborn?.value === false) {
-    propSet(query.filters, 'misc_filters.filters.foulborn_item.option', String(false))
+    propSet(query.filters, 'misc_filters.filters.mutated.option', String(false))
   }
   if (filters.vestigial?.value === false) {
     propSet(query.filters, 'misc_filters.filters.vestigial.option', String(false))
